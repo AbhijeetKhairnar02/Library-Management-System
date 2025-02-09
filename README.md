@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Library-Management-System
-=======
+
 The Library Management System is a web application designed to streamline the management of library operations. 
 It allows librarians to manage books, members, and transactions efficiently. The system provides functionalities for book inventory management, member registration, and borrowing/returning books. 
 It is built with a Django backend to handle the server-side operations and APIs, and a React frontend for the user interface.
@@ -49,8 +49,4 @@ Django serves as the backend framework, using Django REST Framework to create RE
 The backend handles user authentication, book management, member management, and transactions.
 A relational database (PostgreSQL/MySQL) stores the data with models for books, members, and transactions.
 Django’s admin panel can be used for initial management and data entry.
-"# Library-Management-System" 
-"# Library-Management-System" 
-# Library-Management-System
-# Library-Management-System
->>>>>>> 1329189 (files added)
+
