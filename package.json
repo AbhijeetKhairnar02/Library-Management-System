@@ -1,0 +1,12 @@
+{
+  "name": "library-management-system-master",
+  "version": "1.0.0",
+  "description": "The Library Management System is a web application designed to streamline the management of library operations.  It allows librarians to manage books, members, and transactions efficiently. The system provides functionalities for book inventory management, member registration, and borrowing/returning books.  It is built with a Django backend to handle the server-side operations and APIs, and a React frontend for the user interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
